@@ -1,7 +1,7 @@
 archive.corba_ior_parser
 ========================
 
-CORBA Interoperable Object Reference (IOR) Parser. This code was primarily written in the 1990's and it shows :-)
+CORBA Interoperable Object Reference (IOR) Parser. This code was primarily written in the 1990's and it shows, there's code workarounds for the JVM in Netscape 4.05.
 
 ###Sample IORs
 
