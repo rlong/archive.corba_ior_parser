@@ -1,6 +1,17 @@
+
+### OS X
+
+.DS_Store
+
+### Emacs
+
+*~
+
+### Java 
+
 *.class
 
-# Package Files #
+#### Package Files
 *.jar
 *.war
 *.ear

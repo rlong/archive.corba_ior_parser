@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<project name="test" default="build" basedir=".">
+
+
+
+	<target name="build">
+		<javac srcdir="src" classpath="ant/lib/junit.jar" source="1.2" target="1.2" destdir="ant/bin">
+			<exclude name="**/*Test.java" />
+		</javac>
+		<jar destfile="ant/ior-parser.jar"
+		       basedir="ant/bin"
+		  />		
+
+	</target>
+	
+	
+</project>
