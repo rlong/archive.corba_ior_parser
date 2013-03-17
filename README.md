@@ -28,7 +28,4 @@ Intel:
 
 
 
-###Scratch
 
-
-http://www.omg.org/spec/CORBA/3.1/20011101/CORBA.idl
